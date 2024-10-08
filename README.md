@@ -14,18 +14,21 @@ Este proyecto es una herramienta para validar direcciones IPv4, URLs y correos e
 
 
 ## Uso
-Selecciona el tipo de validación que deseas realizar del menú desplegable:
-
+1.Selecciona el tipo de validación que deseas realizar del menú desplegable:
+   
     • IPv4: Para validar direcciones IP.
     • URL: Para validar direcciones web.
     • Email: Para validar direcciones de correo electrónico.
+    
 ![Img referencia](imgReferences/1.png)
 
-1. Ingresa el valor que deseas validar en el campo de texto.
+3. Ingresa el valor que deseas validar en el campo de texto.
+   
 ![Img referencia](imgReferences/2.png)
-3. Haz clic en el botón "Validar".
+
+5. Haz clic en el botón "Validar".
   
-5. Recibirás un mensaje que indica si el valor ingresado es válido o inválido. El mensaje se mostrará en color verde para valores válidos y en rojo para valores inválidos.
+6. Recibirás un mensaje que indica si el valor ingresado es válido o inválido. El mensaje se mostrará en color verde para valores válidos y en rojo para valores inválidos.
 ![Img referencia](imgReferences/3.png)
 
 
