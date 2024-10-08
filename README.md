@@ -37,3 +37,7 @@ Selecciona el tipo de validación que deseas realizar del menú desplegable:
     URL inválida: htp://invalid-url
     Correo electrónico válido: ejemplo@correo.com
     Correo electrónico inválido: ejemplo@correo
+
+
+## Contribuciones 
+Las contribuciones son bienvenidas. Si deseas agregar más características o mejorar el código, no dudes en abrir un pull request.
