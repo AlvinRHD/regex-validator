@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Validador de Expresiones Regulares</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <p>By Steven Molina - Alvin Rosales</p>
+      <h1>Validador de Expresiones Regulares</h1>
+
+      <label for="validation-type">Selecciona el tipo de validación:</label>
+      <select id="validation-type">
+        <option value="ipv4">Validar dirección IPv4</option>
+        <option value="url">Validar URL</option>
+        <option value="email">Validar correo electrónico</option>
+      </select>
+
+      <label for="input-value">Ingrese el valor a validar:</label>
+      <input type="text" id="input-value" placeholder="Escribe aquí..." />
+
+      <button onclick="validate()">Validar</button>
+
+      <p id="result" class="alert"></p>
+    </div>
+
+    <script src="validator.js"></script>
+  </body>
+</html>
